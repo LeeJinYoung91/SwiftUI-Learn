@@ -1,6 +1,6 @@
 //
 //  ContentView.swift
-//  SwiftUI
+//  SwiftUITestApp
 //
 //  Created by jinyoung on 2021/06/28.
 //
